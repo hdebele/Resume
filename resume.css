@@ -51,7 +51,7 @@ a:hover {
 }
 .intro {
   width: 50px;
-  margin: 100px;
+  margin: 100px 100px 100px 50px;
   text-align: center;
 }
 .experience{
